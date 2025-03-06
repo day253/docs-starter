@@ -141,3 +141,12 @@ Need help? [Set up a call](https://buildwithfern.com/contact?utm_source=github&u
 ## About OpenAPI (formerly Swagger)
 
 The OpenAPI specification is a format for describing REST APIs. The specification consists of a single JSON or YAML file. OpenAPI was previously known as Swagger. Fern supports both OpenAPI (3.x) and Swagger (2.x). We refer to the specification as OpenAPI throughout our documentation.
+
+### mirror 
+
+```
+fernapi/fern-python-sdk:4.3.13
+fernapi/fern-typescript-node-sdk:0.48.4
+fernapi/fern-java-sdk:2.21.0
+fernapi/fern-go-sdk:0.36.5             
+```
